@@ -25,7 +25,8 @@ $ python doxxerX.py
 
 # Tested in
 • Linux (Debian): ✔
-• Termux: ✔
+• Kali Linux : ✔
+• Ubuntu : ✔
 • Black Arch Linux: ✔
 
 ## Observation
