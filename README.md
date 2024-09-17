@@ -24,10 +24,13 @@ $ python doxxerX.py
 - **last**: The tools will automatically do their respective tasks
 
 # Tested in
-• Linux (Debian): ✔
-• Kali Linux : ✔
-• Ubuntu : ✔
-• Black Arch Linux: ✔
+| All Tested | ✔️ |
+|--------|--------|
+| **Linux (Debian)** |✔️ |
+| **Kali Linux** |✔️ |
+| **Black Arch Linux** |✔️ |
+| **Ubuntu** |✔️ |
+---------
 
 ## Observation
 This is a tool for education only, I am not responsible for any misuse
