@@ -24,6 +24,7 @@ $ python doxxerX.py
 - **last**: The tools will automatically do their respective tasks
 
 # Tested in
+| My Tested | ✔️ |
 |--------|--------|
 | **Linux (Debian)** |✔️ |
 | **Kali Linux** |✔️ |
