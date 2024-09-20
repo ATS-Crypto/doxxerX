@@ -30,6 +30,7 @@ $ python doxxerX.py
 | **Kali Linux** |✔️ |
 | **Black Arch Linux** |✔️ |
 | **Ubuntu** |✔️ |
+| **Termux** |✔️ |
 ---------
 
 ## Observation
